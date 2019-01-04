@@ -1,0 +1,4 @@
+# Using Python3
+
+name = "Alice"
+print(name)
