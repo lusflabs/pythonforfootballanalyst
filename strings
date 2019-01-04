@@ -1,0 +1,26 @@
+# define string variable firstname and assign value "Tim"
+firstname = "Tim"
+
+#print string
+print(firstname)
+
+#print the first character of the string variable
+print(firstname[0])
+
+#print the second character of the string variable
+print(firstname[1])
+
+#print the length of the string
+print(len(firstname))
+
+#print the first and second characters
+print(firstname[0:2])
+
+#print the second and third characters
+print(firstname[1:3])
+
+# string concatenation (combining strings)
+lastname = "Cook"
+fullname == firstname + " " + lastname
+print(fullname)
+
