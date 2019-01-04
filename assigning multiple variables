@@ -1,0 +1,7 @@
+# Using Python3
+
+# assigning variable multiple times means, will only take the last variable change
+# you can copy and past this directly into python
+x = 25 
+x = 10
+print(x)
