@@ -1,0 +1,10 @@
+# Conditions are used to make a decision between two code paths.
+
+def test_condition(x):
+    if x == 1:
+        print("SUCCESS")
+    else:
+        print("FAILED")
+        
+        
+# make sure you  copy and paste into Python 6.
