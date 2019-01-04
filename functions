@@ -1,0 +1,17 @@
+# function isw a block of organized code, that can be used over and over again by calling to it. 
+
+#define function
+def add(x, y):
+  result = x + y
+  return result
+
+#use function
+return_value = add(10, 20)
+print(return_value)
+
+#another example
+print(add(5, 9))
+
+# another example
+def foo():
+print("This function does not return any value")
