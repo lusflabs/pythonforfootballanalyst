@@ -1,0 +1,5 @@
+# Using Python3
+
+#integer variable
+x = 25
+print(x)
