@@ -1,0 +1,4 @@
+# Use Python3
+# floating point numbers
+z = 1.53
+print(z)
